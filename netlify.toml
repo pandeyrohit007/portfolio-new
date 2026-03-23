@@ -1,0 +1,8 @@
+[build]
+base = "my-digital-showcase-1740fd3c7edf2d03b664e5986b241059832b4103/"
+command = "npm run build"
+publish = "my-digital-showcase-1740fd3c7edf2d03b664e5986b241059832b4103/dist"
+
+[dev]
+command = "npm run dev"
+port = 8080
